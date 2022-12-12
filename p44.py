@@ -1,0 +1,5 @@
+n=int(input('How many Elements do you want?'))
+l=list(map(int,input().split()))
+print(l[0])
+print(l[2])
+print(l[4])
